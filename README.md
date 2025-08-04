@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Power BI dashboard analyzes mobile device specifications and pricing trends across global markets from 2020-2025. It enables manufacturers and investors to compare hardware evolution, regional pricing strategies, and competitive positioning for over 1,200 devices.
+This Power BI dashboard analyzes mobile device specifications and pricing trends across global markets from 2020-2025. It help people who want to buy a new smart phone to compare hardware evolution, regional pricing strategies, and competitive positioning for over 1,200 devices.
 
 ## Deployment
 
