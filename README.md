@@ -31,8 +31,8 @@ The dashboard is deployed on Power BI and can be accessed [here](https://app.pow
 
 1. **Prerequisites**:  
    - Power BI Desktop (July 2023 or newer)
-   - Access to [dataset]([data/processed/mobile_data_2025.csv](https://app.powerbi.com/links/WCrmRGXf7q?ctid=d6b133e3-eec7-4dbd-93ff-cb50b1d6dad2&pbi_source=linkShare))
+   - Access to [dataset](https://app.powerbi.com/links/WCrmRGXf7q?ctid=d6b133e3-eec7-4dbd-93ff-cb50b1d6dad2&pbi_source=linkShare)
 
 2. **Installation**:
    ```bash
-   git clone https://github.com/yourusername/mobile-product-dashboard-2025.git
+   git clone [https://github.com/yourusername/mobile-product-dashboard-2025.git](https://github.com/kevinlch421/Mobile-Product-Dashbroad-2025.git)
