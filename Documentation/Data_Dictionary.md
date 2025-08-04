@@ -18,7 +18,7 @@
 | **Launched Price (Dubai)**| Official release price in United Arab Emirates   | Number    |
 | **Launched Year**         | Year of product release                          | Number    |
 
-## Derived Columns
+## Derived Columns on DAX Function
 1. **Numerical Weight**  
    Extracted numeric weight value from Mobile Weight  
    `Numerical Weight = VALUE(SUBSTITUTE(SUBSTITUTE([Mobile Weight],"g",""),"kg",""))`
