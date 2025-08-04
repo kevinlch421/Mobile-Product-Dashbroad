@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Power BI dashboard analyzes mobile device specifications and pricing trends across global markets from 2020-2025. It help people who want to buy a new smart phone to compare hardware evolution, regional pricing strategies, and competitive positioning for over 1,200 devices.
+This Power BI dashboard helps you compare smartphones from 2020 to 2025. It shows important phone features like RAM, camera quality, and processors, along with price differences across countries. You can also see how phone technology has changed year by year. Use it to find phones with the best features for your needs, discover where you can get the best price, and easily compare over 1,200 different models. It's perfect for students who are researching their next phone purchase!
 
 ## Deployment
 
