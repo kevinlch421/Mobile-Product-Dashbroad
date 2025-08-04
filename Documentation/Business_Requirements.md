@@ -2,7 +2,7 @@
 
 This dashboard delivers strategic insights into mobile device evolution and market positioning across global regions. It answers critical product planning questions through data visualization of specifications and pricing trends from 2020-2025.
 
-### Core Analysis Questions
+## Core Analysis Questions
 
 - **Product Evolution**  
 *"How have RAM, processors, and cameras evolved by company/year?"*  
